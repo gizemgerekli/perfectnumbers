@@ -49,6 +49,8 @@ Kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) daha da geliştirildi.
 Renk paleti, fontlar ve genel tasarım öğeleri optimize edildi.
 7. Hafta
 ✅ Son düzenlemeler, optimizasyonlar.
+8. Hafta
+✅ Projenin APK'sı oluşturuldu.
 
 ![Demo](https://github.com/user-attachments/assets/ab41781d-0ef9-44df-ae8a-2936df3ed74c)
 ![Demo2](https://github.com/user-attachments/assets/95425394-ebcd-4ed4-a417-1ef75f7cf860)
