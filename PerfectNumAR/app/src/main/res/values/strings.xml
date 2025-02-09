@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Mükemmel Sayı</string>
+    <string name="btn_easy">Kolay</string>
+    <string name="btn_medium">Orta</string>
+    <string name="btn_hard">Zor</string>
+    <string name="btn_perfect">Mükemmel Sayı</string>
+    <string name="btn_not_perfect">Mükemmel Değil</string>
+    <string name="btn_add_factor">Çarpan Ekle</string>
+    <string name="btn_clear">Temizle</string>
+    <string name="text_current_number">Sayı: %d</string>
+    <string name="text_selected_factors">Seçilen çarpanlar: %s</string>
+    <string name="text_sum">Toplam: %d</string>
+    <string name="text_timer">Süre: %d</string>
+    <string name="text_input">Girilen: %s</string>
+    <string name="dialog_time_up_title">Süre Doldu!</string>
+    <string name="dialog_time_up_message">Tekrar denemek ister misiniz?</string>
+    <string name="dialog_btn_yes">Evet</string>
+    <string name="dialog_btn_no">Hayır</string>
+    <string name="toast_correct">Doğru! Tebrikler!</string>
+    <string name="toast_wrong">Yanlış! Tekrar deneyin.</string>
+    <string name="toast_invalid_factor">Bu sayı geçerli bir çarpan değil!</string>
+</resources>

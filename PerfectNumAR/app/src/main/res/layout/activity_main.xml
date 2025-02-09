@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/ar_fragment"
+        android:name="com.google.ar.sceneform.ux.ArFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/difficulty_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:background="@color/semi_transparent_background">
+
+        <Button
+            android:id="@+id/easyButton"
+            style="@style/GameButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_easy" />
+
+        <Button
+            android:id="@+id/mediumButton"
+            style="@style/GameButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_medium" />
+
+        <Button
+            android:id="@+id/hardButton"
+            style="@style/GameButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_hard" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/game_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/difficulty_container"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@color/semi_transparent_background">
+
+        <TextView
+            android:id="@+id/currentNumberText"
+            style="@style/GameText.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/factorsText"
+            style="@style/GameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/sumText"
+            style="@style/GameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/timerText"
+            style="@style/GameText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/input_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/button_container"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@color/semi_transparent_background">
+
+        <TextView
+            android:id="@+id/tempInputText"
+            style="@style/GameText.Large"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:id="@+id/confirmButton"
+                style="@style/GameButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btn_add_factor"/>
+
+            <Button
+                android:id="@+id/clearButton"
+                style="@style/GameButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btn_clear"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:background="@color/semi_transparent_background">
+
+        <Button
+            android:id="@+id/perfectButton"
+            style="@style/GameButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_perfect"/>
+
+        <Button
+            android:id="@+id/notPerfectButton"
+            style="@style/GameButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_not_perfect"/>
+    </LinearLayout>
+
+</RelativeLayout>
