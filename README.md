@@ -1,4 +1,3 @@
-![Snapshot_2025-02-02_23-11-44](https://github.com/user-attachments/assets/95425394-ebcd-4ed4-a417-1ef75f7cf860)
 Perfect Numbers
 Gizem GEREKLİ - 215541058
 
@@ -52,4 +51,5 @@ Renk paleti, fontlar ve genel tasarım öğeleri optimize edildi.
 ✅ Son düzenlemeler, optimizasyonlar.
 
 ![Demo](https://github.com/user-attachments/assets/ab41781d-0ef9-44df-ae8a-2936df3ed74c)
+![Demo2](https://github.com/user-attachments/assets/95425394-ebcd-4ed4-a417-1ef75f7cf860)
 
