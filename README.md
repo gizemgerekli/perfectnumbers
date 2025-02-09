@@ -1,4 +1,4 @@
-Perfect Numbers
+[Screen_recording_20250209_234705.webm](https://github.com/user-attachments/assets/8025a567-1f75-4f63-89be-cdf2932193c8)Perfect Numbers
 Gizem GEREKLİ - 215541058
 
 Proje Hakkında
@@ -53,5 +53,12 @@ Renk paleti, fontlar ve genel tasarım öğeleri optimize edildi.
 ✅ Projenin APK'sı oluşturuldu.
 
 ![Demo](https://github.com/user-attachments/assets/ab41781d-0ef9-44df-ae8a-2936df3ed74c)
-![Demo2](https://github.com/user-attachments/assets/95425394-ebcd-4ed4-a417-1ef75f7cf860)
+![Demo2](https://github.com/user-attachments/assets/149e049d-e612-411f-9eca-c46acff57bd3)
+![Demo3](https://github.com/user-attachments/assets/448d1fe1-a774-4719-a476-47a4eb8436be)
+[Demo4](https://github.com/user-attachments/assets/6c89cc53-21c7-4acc-b08b-a216a847d655)
+
+
+
+
+
 
