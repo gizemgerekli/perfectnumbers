@@ -1,3 +1,4 @@
+![Snapshot_2025-02-02_23-11-44](https://github.com/user-attachments/assets/95425394-ebcd-4ed4-a417-1ef75f7cf860)
 Perfect Numbers
 Gizem GEREKLİ - 215541058
 
