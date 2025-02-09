@@ -49,3 +49,6 @@ Kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) daha da geliştirildi.
 Renk paleti, fontlar ve genel tasarım öğeleri optimize edildi.
 7. Hafta
 ✅ Son düzenlemeler, optimizasyonlar.
+
+![Demo](https://github.com/user-attachments/assets/ab41781d-0ef9-44df-ae8a-2936df3ed74c)
+
